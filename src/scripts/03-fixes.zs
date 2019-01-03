@@ -1,6 +1,6 @@
 import mods.actuallyadditions.Crusher;
 
-//Fix for crushers giving you 6 dust when the horse armor costs 4
+//Deletes all recipes with these dusts in it (Will be adding recipes again in the next update)
 mods.actuallyadditions.Crusher.removeRecipe(<thermalfoundation:material>);
 mods.actuallyadditions.Crusher.removeRecipe(<thermalfoundation:material:1>);
 mods.actuallyadditions.Crusher.removeRecipe(<mekanism:otherdust>);
