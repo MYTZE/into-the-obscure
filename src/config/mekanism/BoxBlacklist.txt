@@ -1,3 +1,19 @@
 # Use this file to tell Mekanism which blocks should not be picked up by a cardboard box.
 # Proper syntax is "NAME META". Example (for stone):
 # minecraft:stone 0
+refinedstorage:controller 0
+refinedstorage:grid 0
+refinedstorage:grid 1
+refinedstorage:grid 2
+refinedstorage:grid 3
+refinedstorage:crafting_monitor 0
+refinedstorage:storage_monitor 0
+refinedstorage:security_manager 0
+refinedstorage:crafter 0
+refinedstorage:disk_drive 0
+refinedstorage:storage 0
+refinedstorage:storage 1
+refinedstorage:storage 2
+refinedstorage:storage 3
+refinedstorage:storage 4
+
